@@ -11,3 +11,4 @@ to change depending on the environment.
 are not checked in
 -Ignore CLI configuration files
 -Edit README.md from IDE git
+-Edit2 README.md from IDE git
