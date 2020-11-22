@@ -10,5 +10,5 @@ to change depending on the environment.
 -Ignore override files as they are usually used to override resources locally and so
 are not checked in
 -Ignore CLI configuration files
--Edit README.md from IDE git
--Edit2 README.md from IDE git
+3. Add fix branch
+4. Edit README.md from IDE git branch fix
